@@ -12,7 +12,7 @@ const HeroSection = () => {
 
               <div className="hero-buttons">
                   <a href="../src/assets/document/cv.pdf" target="_blank" className="hero-button"> <i className="fa fa-download" aria-hidden="true"></i>  Télécharger
-                      CV</a>
+                      MON CV</a>
                   <a href="#contact" className="hero-button">Contact</a>
               </div>
           </div>
